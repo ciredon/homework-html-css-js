@@ -1,0 +1,43 @@
+body{
+	margin-left: 300px ;
+	background-color:aquamarine;
+	color :burlywood;
+}
+ul.navbar{
+	position:absolute;
+	top: 30px;
+	left: 15px;
+	width: 150px;
+	list-style-type: none ;
+}
+
+ul.navbar li{
+	margin: 5px 0;
+	padding: 5px;
+	border-right: 1px solid #17252a;
+	border-top: 5px solid #17252a;
+	border-left: 20px solid #17252a;
+	border-bottom: 1px solid #17252a;
+}
+
+h1{
+    color:plum;
+}
+
+#p1{
+    color: goldenrod;
+}
+
+#p2{
+    color:navy
+}
+
+#p3{
+    color:olivedrab;
+}
+#p4{
+    color:darkslateblue;
+}
+#p5{
+    color: forestgreen;
+}
